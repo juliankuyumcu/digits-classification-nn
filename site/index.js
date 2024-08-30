@@ -1,6 +1,6 @@
 let model = null;
 const loadModel = async () => {
-    model = await tf.loadLayersModel('./site/model.json');
+    model = await tf.loadLayersModel('./model.json');
 }
 
 loadModel();
