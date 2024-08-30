@@ -2,7 +2,7 @@
 
 This project primarily uses a Convolutional Neural Network to identify handwritten digits, trained on Tensorflow's MNIST dataset and additionally tested with original images.
 
-The model has been converted to a web format with TensorflowJS and can be used here: [weblink]
+The model has been converted to a web format with TensorflowJS and can be used here: [https://juliankuyumcu.github.io/digits-classification-nn/site/](https://juliankuyumcu.github.io/digits-classification-nn/site/)
 
 ### Architecture
 
@@ -16,7 +16,7 @@ The MNIST dataset provided distinct datasets for labelled training and validatio
 
 ### Site
 
-The CNN was converted to a web format and can be accessed here: [weblink]
+The CNN was converted to a web format and can be accessed here: [https://juliankuyumcu.github.io/digits-classification-nn/site/](https://juliankuyumcu.github.io/digits-classification-nn/site/)
 
 Any user can draw their own "handwritten" digit and have the model predict which digit was entered.
 
